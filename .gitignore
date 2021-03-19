@@ -17,7 +17,6 @@
 *.ini
 temp.py
 venv/
-pipe2time.ir/
 *.RData
 *.rar
 *.bz2
